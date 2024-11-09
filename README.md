@@ -8,10 +8,11 @@
 (iii) Understand monthly and seasonal trends
 
 ## TOOLS USED:
-(1) Microsoft Excel
+(1) Microsoft Excel:
 (a) to conduct the initial data exploration,
 (b) create pivot tables
-(c) calculate metrics with formulars
+(c) calculate metrics with Excel Formulars
+(d) to summarise Key Insights
 
 (2)Structured Query Language
 (3) PowerBI
