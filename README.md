@@ -12,4 +12,8 @@
 (a) to conduct the initial data exploration,
 (b) create pivot tables
 (c) calculate metrics with formulars
+
+(2)Structured Query Language
+(3) PowerBI
+(4)GitHub
  
