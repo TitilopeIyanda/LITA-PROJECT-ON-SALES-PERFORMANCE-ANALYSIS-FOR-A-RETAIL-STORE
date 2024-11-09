@@ -15,6 +15,10 @@
 (d) to summarise Key Insights
 
 (2)Structured Query Language
-(3) PowerBI
-(4)GitHub
+
+(3) PowerBI: for reports or for insghts, summaries and interpretations
+to createfor visuals
+
+(4)GitHub: 
+to create 
  
