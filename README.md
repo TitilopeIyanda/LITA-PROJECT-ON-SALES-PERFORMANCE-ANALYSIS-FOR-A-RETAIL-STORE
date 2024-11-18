@@ -1,6 +1,13 @@
-## Sales Performance Analysis For A Retail Store
-####  This project analyzez sales data for a retail store to uncover insights about top-selling products, regional performance , and monthly sales trends.
-#### The goals is to create clear summaries and visulas of the findings using Excel
+# Sales Performance Analysis For A Retail Store
+
+## PROJECT OVERVIEW
+
+####  This project analyzes sales performance of a retail store using Data analysis tools like Microsoft Excel, SQL and PowerBI to uncover key insights such as top-selling products, regional performance , and monthly sales trends. the analysis culminates in an interactive PowerBI dashboard that highlights these findings.
+
+## Key Objctives
+
+#### - Identify top - selling products and categories
+
 ..
 ### OUTLINE:
 
