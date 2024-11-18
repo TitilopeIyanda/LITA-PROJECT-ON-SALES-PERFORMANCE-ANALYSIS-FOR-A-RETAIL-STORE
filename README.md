@@ -5,15 +5,26 @@
 ### OUTLINE:
 
 #### Sales Data
+
 #### Excel Sales Analysis
+
 #### SQL Sales Analysis queries
+
 #### PowerBI
+
 #### Sales Performnce Dashboard
+
 #### Images
+
 #### Excel Reports
+
 #### SQL Query Results
+
 #### PowerBI Dashboard
+
 #### Documentation
+
+#### Insights
 
 
 ## OBJECTIVES:
