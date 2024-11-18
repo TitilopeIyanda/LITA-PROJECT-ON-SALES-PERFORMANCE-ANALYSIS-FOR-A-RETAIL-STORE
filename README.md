@@ -30,7 +30,11 @@
 
 #### (i) Advanced queries for data extraction and insights
 
-### (3) 
+### (3)  Microsoft PowerBI: 
+
+#### (i) Interactive dashboard for data visualization 
+
+## Repository Structure
 
 
 
