@@ -20,11 +20,13 @@
 
 ### (1) Microsoft Excel:
 
-#### (i) Data exploration 
+#### (i) to conduct initial data exploration 
 
-#### (ii) Pivot tables
+#### (ii) to create pivot tables
 
-#### (iii) Formula - based calculations
+#### (iii) to calculate metrics with Excel Formulars
+
+#### (iv) to summarise key insights
 
 ### (2) SQL: 
 
@@ -74,8 +76,6 @@
 (1) Microsoft Excel:
 (a) to conduct the initial data exploration,
 (b) create pivot tables
-(c) calculate metrics with Excel Formulars
-(d) to summarise Key Insights
 
 (2)Structured Query Language
 
