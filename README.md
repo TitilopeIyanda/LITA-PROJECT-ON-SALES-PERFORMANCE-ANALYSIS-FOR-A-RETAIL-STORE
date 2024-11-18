@@ -18,6 +18,22 @@
 
 ## Tools and Technologies
 
+### (1) Microsoft Excel:
+
+#### (i) Data exploration 
+
+#### (ii) Pivot tables
+
+#### (iii) Formula - based calculations
+
+### (2) SQL: 
+
+#### (i) Advanced queries for data extraction and insights
+
+### (3) 
+
+
+
 
 ..
 ### OUTLINE:
