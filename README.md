@@ -8,6 +8,17 @@
 
 #### - Identify top - selling products and categories
 
+#### - Analyze regional sales performance
+
+#### - Track monthly sales trends
+
+#### - Uncover insights on customer purchasing behaviour
+
+#### - Visualize findings through a comprehensive PowerBI dashboard
+
+## Tools and Technologies
+
+
 ..
 ### OUTLINE:
 
