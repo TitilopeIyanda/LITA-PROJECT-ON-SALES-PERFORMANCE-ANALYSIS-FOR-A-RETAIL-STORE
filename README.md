@@ -34,12 +34,13 @@
 
 ### (3)  Microsoft PowerBI: 
 
-#### (i) Interactive dashboard for data visualization 
+#### (i) for reports or for insghts, summaries and interpretations
 
-## Repository Structure
+#### (ii) to create interactive dashboard for data visualization 
 
+### (4) GitHub
 
-
+#### (i) to create portfolio and publishing 
 
 ..
 ### OUTLINE:
@@ -79,9 +80,5 @@
 
 (2)Structured Query Language
 
-(3) PowerBI: for reports or for insghts, summaries and interpretations
-to createfor visuals
-
-(4)GitHub: 
-to create 
+ 
  
