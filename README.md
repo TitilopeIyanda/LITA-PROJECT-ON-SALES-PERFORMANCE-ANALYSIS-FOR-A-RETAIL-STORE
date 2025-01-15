@@ -30,6 +30,8 @@
 
 #### Insights
 
+
+
 ## PROJECT OVERVIEW
 
 ####  This project analyzes sales performance of a retail store using Data analysis tools like Microsoft Excel, SQL and PowerBI to uncover key insights such as top-selling products, regional performance , and monthly sales trends. the analysis culminates in an interactive PowerBI dashboard that highlights these findings.
@@ -40,7 +42,7 @@
 
 #### - Analyze regional sales performance
 
-#### - Track monthly sales trends
+#### - Track monthly sales and seasonal trends
 
 #### - Uncover insights on customer purchasing behaviour
 
@@ -72,30 +74,6 @@
 
 #### (i) to create portfolio and publishing 
 
-..
-### OUTLINE:
-
-#### Sales Data
-
-#### Excel Sales Analysis
-
-#### SQL Sales Analysis queries
-
-#### PowerBI
-
-#### Sales Performnce Dashboard
-
-#### Images
-
-#### Excel Reports
-
-#### SQL Query Results
-
-#### PowerBI Dashboard
-
-#### Documentation
-
-#### Insights
 
 
 ## OBJECTIVES:
