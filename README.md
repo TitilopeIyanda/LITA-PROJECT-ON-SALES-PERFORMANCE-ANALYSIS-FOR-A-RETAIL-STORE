@@ -74,19 +74,6 @@
 
 #### (i) to create portfolio and publishing 
 
+## Sales Data
 
-
-## OBJECTIVES:
-(i) Identify top-selling products
-(ii) Explore regional sales performance
-(iii) Understand monthly and seasonal trends
-
-## TOOLS USED:
-(1) Microsoft Excel:
-(a) to conduct the initial data exploration,
-(b) create pivot tables
-
-(2)Structured Query Language
-
- 
  
