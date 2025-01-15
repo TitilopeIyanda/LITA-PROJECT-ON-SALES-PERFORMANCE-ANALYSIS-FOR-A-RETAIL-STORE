@@ -16,7 +16,7 @@
 
 #### PowerBI
 
-#### Sales Performnce Dashboard
+#### Sales Performance Dashboard
 
 #### Images
 
